@@ -1,3 +1,3 @@
-# Git and githb project
+# Git and GitHub project
 
 Zonex-shop
